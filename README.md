@@ -42,8 +42,6 @@
 
 <img width="559" alt="시각화8" src="https://github.com/Ji-eun-Kim/ML-competition-in-kaggle/assets/124686375/dea11930-8f06-473d-a487-bb002efbd617"><br/>
   주제 4의 경우, 서울 외곽 지역에 학원 수가 많은 이유는? 이라는 의문에서 분석을 진행하였다. 결론적으로는 학령인구 수 상위 10개의 자치구 중 9군데가 외곽에 위치해 있으므로 외곽지역에 학령인구가 많다는 것을 도출하였고, 외곽 지역의 grdp가 다른 지역의 grdp보다 상대적으로 높다는 것을 도축하였다. 이는 소득수준이 높으면 학원에 많이 다니므로 소득이 높은 외곽지역에 학원 수가 많다는 것을 의미하였다.
-
-
 <br/>
 
 <img width="557" alt="시각화10" src="https://github.com/Ji-eun-Kim/ML-competition-in-kaggle/assets/124686375/68d93db7-e0db-400f-bd30-b5b14ac960fc"> <br/>
