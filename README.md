@@ -62,12 +62,5 @@
 
 **<담당 역할>**
 
-- 데이터 수집 및 전처리
+- 데이터 전처리 및 EDA
 - 자치구별 grdp 총 수와 자치구별 학교수의 상관관계 분석 및 시각화, 인사이트 도출
-
-<br/>
-
-## 6. 발표 자료 및 데이터
-
-- 발표 자료  
-https://github.com/Ji-eun-Kim/DnA-Visualization-competition
